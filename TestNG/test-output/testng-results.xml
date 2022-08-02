@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33467" started-at="2022-07-26T11:45:40 IST" finished-at="2022-07-26T11:46:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33467" started-at="2022-07-26T11:45:40 IST" finished-at="2022-07-26T11:46:14 IST">
+      <class name="com.TestNG.Adactin">
+        <test-method status="PASS" signature="setProperty()[pri:1, instance:com.TestNG.Adactin@26aa12dd]" name="setProperty" duration-ms="3785" started-at="2022-07-26T11:45:40 IST" finished-at="2022-07-26T11:45:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setProperty -->
+        <test-method status="PASS" signature="gettingUrl()[pri:2, instance:com.TestNG.Adactin@26aa12dd]" name="gettingUrl" duration-ms="9346" started-at="2022-07-26T11:45:44 IST" finished-at="2022-07-26T11:45:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingUrl -->
+        <test-method status="PASS" signature="maximize()[pri:3, instance:com.TestNG.Adactin@26aa12dd]" name="maximize" duration-ms="161" started-at="2022-07-26T11:45:53 IST" finished-at="2022-07-26T11:45:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximize -->
+        <test-method status="PASS" signature="elements()[pri:4, instance:com.TestNG.Adactin@26aa12dd]" name="elements" duration-ms="5798" started-at="2022-07-26T11:45:54 IST" finished-at="2022-07-26T11:45:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elements -->
+        <test-method status="PASS" signature="content()[pri:5, instance:com.TestNG.Adactin@26aa12dd]" name="content" duration-ms="5140" started-at="2022-07-26T11:45:59 IST" finished-at="2022-07-26T11:46:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- content -->
+        <test-method status="PASS" signature="radio()[pri:6, instance:com.TestNG.Adactin@26aa12dd]" name="radio" duration-ms="4915" started-at="2022-07-26T11:46:05 IST" finished-at="2022-07-26T11:46:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radio -->
+        <test-method status="PASS" signature="content2()[pri:7, instance:com.TestNG.Adactin@26aa12dd]" name="content2" duration-ms="4248" started-at="2022-07-26T11:46:09 IST" finished-at="2022-07-26T11:46:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- content2 -->
+      </class> <!-- com.TestNG.Adactin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

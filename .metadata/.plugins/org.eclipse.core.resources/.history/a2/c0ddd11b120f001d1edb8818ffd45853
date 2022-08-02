@@ -1,0 +1,31 @@
+package org.stepdefinetion.com;
+
+import io.cucumber.java.en.*;
+
+public class StepDefenition {
+	
+
+@Given("application launched successfully")
+public void application_launched_successfully() {
+  
+}
+
+@When("User enter the username in the username field")
+public void user_enter_the_username_in_the_username_field() {
+    
+}
+
+@When("User enter the password in the password field")
+public void user_enter_the_password_in_the_password_field() {
+    
+}
+
+@Then("click the login button")
+public void click_the_login_button() {
+   
+}
+
+
+
+
+}

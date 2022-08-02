@@ -1,0 +1,165 @@
+package org.stepdefinetion.com;
+
+import org.openqa.selenium.By;
+
+import com.CucumberProject.BaseClass;
+
+import io.cucumber.java.en.*;
+
+public class StepDefenition extends BaseClass {
+	@Given("application launched successfully")
+	public void application_launched_successfully() {
+	    
+	}
+
+	@When("User enter the username in the username field")
+	public void user_enter_the_username_in_the_username_field() {
+	   
+	}
+
+	@When("User enter the password in the password field")
+	public void user_enter_the_password_in_the_password_field() {
+	    
+	}
+
+	@Then("click the login button")
+	public void click_the_login_button() {
+	    
+	}
+
+	@Given("login is successfully done")
+	public void login_is_successfully_done() {
+	    
+	}
+
+	@When("select the location")
+	public void select_the_location() {
+	   
+	}
+
+	@When("search the hotel")
+	public void search_the_hotel() {
+	    
+	}
+
+	@When("select the room type")
+	public void select_the_room_type() {
+	    
+	}
+
+	@When("choose the number of rooms what we want")
+	public void choose_the_number_of_rooms_what_we_want() {
+	    
+	}
+
+	@When("mention the check in date in the given field")
+	public void mention_the_check_in_date_in_the_given_field() {
+	   
+	}
+
+	@When("mention the check out date in the given field")
+	public void mention_the_check_out_date_in_the_given_field() {
+	    
+	}
+
+	@When("choose the adults per room in the given drop down")
+	public void choose_the_adults_per_room_in_the_given_drop_down() {
+	    
+	}
+
+	@When("if you have a children mention it in the given field")
+	public void if_you_have_a_children_mention_it_in_the_given_field() {
+	    
+	}
+
+	@Then("click the search button")
+	public void click_the_search_button() {
+	    
+	}
+
+	@Given("hotel location and room type is correctly filled")
+	public void hotel_location_and_room_type_is_correctly_filled() {
+
+
+	}
+
+	@When("radio button is enabled or not")
+	public void radio_button_is_enabled_or_not() {
+
+
+	}
+
+	@Given("hotel location and room type and radio button is correctly enabled")
+	public void hotel_location_and_room_type_and_radio_button_is_correctly_enabled() {
+
+
+	}
+
+	@When("enter your first name")
+	public void enter_your_first_name() {
+
+
+	}
+
+	@When("the last name")
+	public void the_last_name() {
+
+
+	}
+
+	@Then("enter your Billing address")
+	public void enter_your_Billing_address() {
+
+
+	}
+
+	@Then("your {int} digit credit card number is mandatory for booking")
+	public void your_digit_credit_card_number_is_mandatory_for_booking(Integer int1) {
+
+
+	}
+
+	@Then("select the credit card type")
+	public void select_the_credit_card_type() {
+
+
+	}
+
+	@Then("mention your card expiry month and year")
+	public void mention_your_card_expiry_month_and_year() {
+
+
+	}
+
+	@Then("enter your CVV number")
+	public void enter_your_CVV_number() {
+
+
+	}
+
+	@Then("click the book now option")
+	public void click_the_book_now_option() {
+
+
+	}
+
+	@Then("you need to check the given data is correct or not")
+	public void you_need_to_check_the_given_data_is_correct_or_not() {
+
+
+	}
+
+	@Then("click my itinerary button")
+	public void click_my_itinerary_button() {
+
+
+	}
+
+	@Then("logout")
+	public void logout() {
+
+
+	}
+
+
+}

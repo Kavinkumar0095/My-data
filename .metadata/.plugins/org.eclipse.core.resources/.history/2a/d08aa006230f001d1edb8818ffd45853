@@ -1,0 +1,37 @@
+package org.stepdefinetion.com;
+
+import org.openqa.selenium.By;
+
+import com.CucumberProject.BaseClass;
+
+import io.cucumber.java.en.*;
+
+public class StepDefenition extends BaseClass {
+	
+
+@Given("application launched successfully")
+public void application_launched_successfully() {
+	driver=browserLaunch("chrome");
+	getUrl("https://adactinhotelapp.com/index.php");	
+}
+
+@When("User enter the username in the username field")
+public void user_enter_the_username_in_the_username_field() {
+	driver.findElement(By.id(""))
+    
+}
+
+@When("User enter the password in the password field")
+public void user_enter_the_password_in_the_password_field() {
+    
+}
+
+@Then("click the login button")
+public void click_the_login_button() {
+   
+}
+
+
+
+
+}

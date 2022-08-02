@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;DataDriver&apos; to &apos;DataDriven&apos;&#x0D;&#x0A;- Original element: &apos;DataDriver&apos;&#x0D;&#x0A;- Renamed element: &apos;DataDriver&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;DataDriver&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=DataDriver" name="DataDriven" references="true" stamp="1658134262018" version="1.0"/>
+</session>
